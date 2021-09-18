@@ -1,0 +1,22 @@
+.body_bakground{
+background-image: -moz-radial-gradient();
+background-position: center;
+background-size: cover;
+}
+
+h1
+{
+    color:black; 
+    font-size: 40px;
+}
+
+#myFriend
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+span
+{
+    font-size: 20px;
+}
